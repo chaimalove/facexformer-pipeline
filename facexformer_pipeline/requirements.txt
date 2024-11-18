@@ -69,6 +69,7 @@ mat73
 python-dotenv
 facenet-pytorch
 huggingface_hub
+image-input-handler==0.4.0
 
 #gmpy2==2.1.2
 #triton
