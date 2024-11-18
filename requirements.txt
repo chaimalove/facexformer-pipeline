@@ -1,0 +1,2 @@
+image-input-handler==0.4.0
+facexformer_pipeline

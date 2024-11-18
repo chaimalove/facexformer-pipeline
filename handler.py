@@ -1,5 +1,6 @@
-from facexformer_pipeline import FacexformerPipeline
 from typing import Dict, List, Any
+
+from facexformer_pipeline import FacexformerPipeline
 from image_input_handler import UniversalImageInputHandler
 
 
